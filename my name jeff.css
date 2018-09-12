@@ -1,0 +1,15 @@
+h1{
+	color: rgba(13, 21, 69,0.69);
+	text-align: center;
+	font-family: arials;
+}
+h2, p{
+	color: green;
+	text-transform: lowercase;
+	text-align: center;
+}
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
